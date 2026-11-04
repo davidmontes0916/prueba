@@ -1,0 +1,61 @@
+:root {
+
+    /* =====================================
+       ESTADOS - SEMÁFORO GENERAL (Punto Medio)
+       ===================================== */
+
+    /* ÉXITO / ACTIVO / APROBADO / COMPLETADO */
+    --status-success: #68B02A;
+    --status-success-dark: #4C821D;
+    --status-success-light: #9BE154;
+    --status-success-lighter: #EBF5E1;
+
+
+    /* ADVERTENCIA / PENDIENTE / EN PROCESO */
+    --status-warning: #B38612;
+    --status-warning-dark: #82600B;
+    --status-warning-light: #FCE298;
+    --status-warning-lighter: #FEF6DE;
+
+
+    /* ERROR / CRÍTICO / RECHAZADO */
+    --status-danger: #B91C31;
+    --status-danger-dark: #8A1221;
+    --status-danger-light: #F7B4BD;
+    --status-danger-lighter: #FBE2E5;
+
+
+    /* INFORMACIÓN / NEUTRAL */
+    --status-info: #1D70A2;
+    --status-info-dark: #134C70;
+    --status-info-light: #A2D2F2;
+    --status-info-lighter: #E8F4FB;
+
+
+    /* INACTIVO / DESHABILITADO */
+    --status-inactive: #5E6D67;
+    --status-inactive-dark: #424D49;
+    --status-inactive-light: #D5DDD9;
+    --status-inactive-lighter: #EEF1EF;
+
+
+    /* =====================================
+       SEMÁFORO NUMÉRICO
+       ===================================== */
+
+    --semaforo-verde: #68B02A;
+    --semaforo-verde-bg: #EBF5E1;
+
+    --semaforo-amarillo: #B38612;
+    --semaforo-amarillo-bg: #FEF6DE;
+
+    --semaforo-rojo: #B91C31;
+    --semaforo-rojo-bg: #FBE2E5;
+
+
+    /* =====================================
+       FOCUS Y ELEMENTOS INTERACTIVOS
+       ===================================== */
+
+    --color-focus: rgba(157, 36, 73, 0.22);
+}
